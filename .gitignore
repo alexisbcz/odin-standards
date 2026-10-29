@@ -1,0 +1,6 @@
+# OS and build output from running the template locally.
+# templates/.gitignore ignores the Vale packages that `vale sync` downloads.
+.DS_Store
+*.bin
+/templates/basic
+/templates/tests.bin
